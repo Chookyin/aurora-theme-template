@@ -88,15 +88,7 @@ aurora blog-demo
 
 
 
-![image-20211129213029591](https://ooszy.cco.vin/img/blog-note/image-20211129213029591.png?x-oss-process=style/pictureProcess1)
-
-
-
 > 这个过程大概几秒，取决于你的网速，待安装成功之后，你会发现在当前目录下，多了一个目录
-
-
-
-![image-20211129213052601](https://ooszy.cco.vin/img/blog-note/image-20211129213052601.png?x-oss-process=style/pictureProcess1)
 
 
 
@@ -105,33 +97,13 @@ aurora blog-demo
 现在你需要根据`你自己电脑的环境`执行上图中白色部分的相应命令
 
 > 这里举个例子:
->
 > 假如你电脑没有安装`yarn`，那么需要执行带有`npm`的命令，对于`yarn`的命令，就不需要执行
->
-> 推荐看一下[这个视频](https://ooszy.cco.vin/theme-template/%E4%B8%BB%E9%A2%98%E5%AE%89%E8%A3%85.mp4)
-
-
-
-![image-20211130110845273](https://ooszy.cco.vin/img/blog-note/image-20211130110845273.png?x-oss-process=style/pictureProcess1)
 
 待依赖安装成功之后，运行`npm run dev`，会出现一个地址，你只需要在浏览器中，输入这个地址，就可以看到下面的页面
-
-
-
-![image-20211010232918219](https://ooszy.cco.vin/img/blog-note/image-20211010232918219.png?x-oss-process=style/pictureProcess1)
-
-
-
 
 
 恭喜你，到这里，你已经安装成功了，接下来便可以尽情书写博客和修改配置(`上图展示出来的效果是默认配置，你可以更改`)
 
 为了更好的对主题进行配置，你可以直接复制我GitHub中的<a href="https://github.com/vuepress-aurora/vuepress-theme-aurora/blob/master/docs/.vuepress/config-copy.js" target="_blank">config.js</a>文件
-
-推荐阅读
-
-- [主题所有配置](/home/config.md)
-- [问题及报错解决](/issue/bug.md)
-- [注意更新日志](/issue/CHANGELOG.md)
 
 
