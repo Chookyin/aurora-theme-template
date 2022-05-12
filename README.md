@@ -12,7 +12,6 @@ https://github.com/vuepress-aurora/vuepress-theme-aurora
 主题文档地址为[Aurora docs](https://aurora.xcye.xyz/)
 
 
-
 ## **npm**常用命令
 
 1. 本地启动博客
@@ -44,7 +43,7 @@ https://github.com/vuepress-aurora/vuepress-theme-aurora
 5. [Leancloud官网](https://console.leancloud.app/)
 
 
-## Quick start
+## 快速安装
 
 ### Node安装
 
@@ -70,13 +69,7 @@ https://github.com/vuepress-aurora/vuepress-theme-aurora
 
 ### 创建博客
 
-待脚手架cli安装成功之后，进入cmd中
-
-![image-20211127104249135](https://ooszy.cco.vin/img/blog-note/image-20211127104249135.png?x-oss-process=style/pictureProcess1)
-
-
-
-在命令行处输入下面命令(`之后一直按Enter键`)
+待脚手架cli安装成功之后，在命令行处输入下面命令(`之后一直按Enter键`)
 
 ```sh
 aurora blog-demo
