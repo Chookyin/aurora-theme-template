@@ -3,7 +3,7 @@
 非常感谢你使用Aurora主题，当你看到这个页面的时候，说明你已经使用[Aurora脚手架](https://github.com/vuepress-aurora/theme-cli)搭建好博客了，在你配置博客之前，请先阅读该[文章](https://aurora.xcye.xyz/issue/)，对你的博客配置很有帮助，一定要读
 
 ### 原项目地址
-(https://github.com/vuepress-aurora/vuepress-theme-aurora)
+https://github.com/vuepress-aurora/vuepress-theme-aurora
 
 
 
